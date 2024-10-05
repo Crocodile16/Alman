@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.table-header{
+    border: 1px solid black;
+}
+
+.table-image{
+    border: 1px solid black;
+}
+
+.name-product{
+    border: 1px solid black;
+}
+
+.price-product{
+    border: 1px solid black;
+}
+
+.spec-product{
+    border: 1px solid black;
+}
+
+.table-product{
+    border: 1px solid black;
+}
+
+.table-price{
+    border: 1px solid black;
+}
+
+.table-spec{
+    border: 1px solid black;
+}
